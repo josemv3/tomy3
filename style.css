@@ -329,7 +329,7 @@ section .container .box .imgBx.active:hover img {
   }
 
   .footer .blinking {
-    font-size: 9px;
+    font-size: 16px;
     font-style: Arial;
   }
 
