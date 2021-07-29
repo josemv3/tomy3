@@ -336,7 +336,9 @@ section .container .box .imgBx.active:hover img {
   section .container-2 {
     width: 100%;
   }
-
+  section .special-container .card .imgBox {
+    left: 0px;
+  }
 
 }
 
